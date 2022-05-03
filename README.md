@@ -3,7 +3,8 @@
 
 
 
-# AIM:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
+# AIM:
+To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
 # COMPONENTS REQUIRED:
@@ -107,4 +108,5 @@ void loop()
 
 
 
-# RESULT: Arduino uno analog input functioning is learned and interfaced with digital input switch .
+# RESULT:
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
